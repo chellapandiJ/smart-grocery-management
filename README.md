@@ -1,27 +1,11 @@
-# 🛒 Smart Grocery Management System
+#  Smart Grocery Management System
 
 A professional Full-Stack E-commerce solution for modern grocery businesses. Built with high-performance standards, featuring a seamless customer experience and a data-driven administration terminal.
 
 ---
 
-## 🌟 Core Features
 
-### 👤 Customer Experience
-- **Smart Catalog**: Advanced product filtering and real-time search functionality.
-- **Micro-interactions**: Smooth glassmorphism UI with Framer Motion animations.
-- **Shopping Basket**: Dynamic quantity adjustments and variation selection (Size/Weight).
-- **Secure Checkout**: Transaction-safe ordering system.
-- **Order History**: Personal dashboard for tracking purchase history.
-
-### 🛡️ Admin & Staff Terminal
-- **Data Analytics**: Real-time sales statistics and inventory flow charts (Chart.js).
-- **Inventory Control**: Low-stock alerts and automatic stock decrement upon purchase.
-- **Product Management**: Multi-variation support and automated image handling via Multer.
-- **Security**: JWT-based role protection (Admin vs. Staff vs. Customer).
-
----
-
-## 💻 Tech Stack
+## Tech Stack
 
 - **Frontend**: React 18, Vite, Lucide Icons, Framer Motion, Chart.js.
 - **Backend**: Node.js, Express.js.
@@ -31,7 +15,7 @@ A professional Full-Stack E-commerce solution for modern grocery businesses. Bui
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Database Configuration
 1. Start your local MySQL server (XAMPP/WAMP recommended).
@@ -50,14 +34,11 @@ A professional Full-Stack E-commerce solution for modern grocery businesses. Bui
 2. Install dependencies: `npm install`.
 3. Launch development server: `npm run dev`.
 
----
 
-## 📏 Industry Standards Implemented
+
+## Industry Standards Implemented
 - **MVC Architecture**: Clean separation of routes, controllers, and services.
-- **Middleware**: robust authentication and error handling layers.
-- **Relational Integrity**: Foreign keys and database transactions for data consistency.
 - **Responsive Design**: Mobile-first approach for all viewports.
 
----
+--
 
-Developed with ❤️ as a Professional MCA Portfolio Project.
